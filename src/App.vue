@@ -45,6 +45,12 @@ export default {
             src: require('./assets/faded.mp3'),
             id: 32879278972474217889248092890
             
+          },
+          {
+            title : 'Alone',
+            artist : 'Alan Walker',
+            id:72177021771478471664674,
+            src: require('./assets/Alone.mp3')
           }
 
         ],
