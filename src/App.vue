@@ -34,7 +34,7 @@ export default {
         isPlaying: false,
         songs: [
           {
-          title : 'Let Me Love You',
+          title : 'Let me Love you',
           artist: 'Justin Bieber',
           src: require('./assets/let_me_love_you.mp3'),
           id: 731738791341979858158580158
