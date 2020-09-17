@@ -33,12 +33,7 @@ export default {
         index: 0,
         isPlaying: false,
         songs: [
-          {
-          title : 'Let me Love you',
-          artist: 'Justin Bieber',
-          src: require('./assets/let_me_love_you.mp3'),
-          id: 731738791341979858158580158
-          },
+          
           {
             title : 'Faded',
             artist : 'Alan Walker',
@@ -51,6 +46,12 @@ export default {
             artist : 'Alan Walker',
             id:72177021771478471664674,
             src: require('./assets/Alone.mp3')
+          },
+          {
+          title : 'Let me Love you',
+          artist: 'Justin Bieber',
+          src: require('./assets/let_me_love_you.mp3'),
+          id: 731738791341979858158580158
           }
 
         ],
